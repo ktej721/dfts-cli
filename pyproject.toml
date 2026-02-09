@@ -30,8 +30,8 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "htstps://github.com/kirantej/dft"
-"Bug Tracker" = "https://github.com/kirantej/dfts/issues"
+Homepage = "htstps://github.com/kirantej/dfts-cli"
+"Bug Tracker" = "https://github.com/kirantej/dfts-cli/issues"
 
 [project.scripts]
 dfts = "dfts.cli:main"
