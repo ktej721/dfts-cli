@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.DS_Store
+dfts.egg-info/
+.pytest_cache/
+.env
+
+# User data (generated during use)
+hashes.json
+proofs/
+my_docs/
